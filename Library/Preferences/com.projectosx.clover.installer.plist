@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CloverRevision</key>
+	<integer>4862</integer>
+	<key>InstalledThemes</key>
+	<array>
+		<string>metal</string>
+		<string>BeautyX</string>
+		<string>BGM</string>
+		<string>christmas</string>
+		<string>DarkBootX</string>
+		<string>embedded</string>
+		<string>Groovy</string>
+		<string>newyear</string>
+		<string>random</string>
+	</array>
+	<key>org.clover.bootloader.bootno</key>
+	<true/>
+	<key>org.clover.rc.scripts.on.all.volumes</key>
+	<true/>
+	<key>org.clover.target.esp</key>
+	<true/>
+	<key>org.clover.themes.clovy</key>
+	<true/>
+	<key>org.clover.uefi.only</key>
+	<true/>
+</dict>
+</plist>
