@@ -4,7 +4,7 @@ _(HP Pavilion G6-2286sr modified)_
 
 #### Hardware System reequirements:
 > **System**: _MacOS High Sierra 10.13.6_ <br>                           
-> **Processor**: _Intel Core i5 (2,49Ghz)_ <br>
+> **Processor**: _Intel Core i5 3210m (2,49Ghz)_ <br>
 > **Memory**: _2 Bank for 4Gb Kingston (8Gb DDR3 1600Mhz)_ <br>
 > **SSD**: _Samsung 850 EVO 250 (256Gb)_ <br>
 > **Wifi**: _Atheros AR9285_ <br>
